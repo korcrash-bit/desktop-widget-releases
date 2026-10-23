@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://raw.githubusercontent.com/korcrash-bit/desktop-widget-releases/codex-meter-updates/codex-meter/Codex-Meter-1.0.2.apk",
+  "size": 70615,
+  "sha256": "5c59f687050ad11eab07a96448879eb160d4082d12f0380f0273a906266106f8",
+  "notes": "앱에서 새 버전 확인, APK 다운로드와 설치를 지원합니다. 파일 무결성과 앱 서명을 검사하며 기존 계정 연결과 설정을 유지합니다."
+}
