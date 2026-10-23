@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://raw.githubusercontent.com/korcrash-bit/desktop-widget-releases/codex-meter-updates/codex-meter/Codex-Meter-1.0.2.apk",
-  "size": 70615,
-  "sha256": "5c59f687050ad11eab07a96448879eb160d4082d12f0380f0273a906266106f8",
-  "notes": "앱에서 새 버전 확인, APK 다운로드와 설치를 지원합니다. 파일 무결성과 앱 서명을 검사하며 기존 계정 연결과 설정을 유지합니다."
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://raw.githubusercontent.com/korcrash-bit/desktop-widget-releases/codex-meter-updates/codex-meter/Codex-Meter-1.0.3.apk",
+  "size": 74711,
+  "sha256": "2f0e1158bdce1b1378bc0e49d869c048e6f70384303de535fd4e060e859eaa04",
+  "notes": "상단바 아이콘에 CODEX와 남은 숫자를 함께 표시합니다. 자동 확인 주기를 15분·30분·1시간·2시간·6시간·12시간·24시간에서 선택하거나 분·시간 단위로 직접 입력할 수 있습니다. 기존 로그인과 설정은 유지됩니다."
 }
